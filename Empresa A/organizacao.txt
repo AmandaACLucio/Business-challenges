@@ -1,0 +1,55 @@
+-Requisitos necessários:
+
+1) Orientação a objetos
+
+2) Criação de sistema de login
+
+3) Clareza do código
+
+4) Tratamento de erros
+
+5) Interface com usuário
+
+6) Persistência em disco (Procurar informações sobre)
+
+
+-Revendo conceitos:
+
+-Etapas:
+
+1) Criar um 'BD' em python com "usuários" ok
+
+2) Trabalhar na interface (Terminal) ok
+
+3) Criar o código oo ok 
+
+4) Tratamento de erros ok
+
+5) Testar funcionalidades ok
+
+6) Estruturar Tkinter
+
+7) Design
+
+8) Transpor código para objective c (não faz parte do MVP)
+
+-Datas e trabalhos:
+
+03/02: Recebimento e organização - ok
+
+04/02: Revisão de conteúdos - ok
+
+05/02: Estudar Kivy - 10% concluído
+       (Viagem para casa)
+
+06/02: Construir código esquelético - 50% concuído
+
+07/02: Construir código esquelético - ok
+
+08/02: Comentar código e testar funcionalidades em busca de erros - ok
+       Estudar Kivy ou Tkinter - 
+       Pensar na adaptação do código para essas plataformas - 
+
+09/02: 
+
+10/02:
